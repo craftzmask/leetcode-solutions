@@ -56,13 +56,10 @@ For each problem, I generally follow these steps:
 
 ## Progress Tracker
 
-**Total Problems Solved:** 3
-* Easy: 3
+**Total Problems Solved:** 4
+* Easy: 4
 * Medium: 0
 * Hard: 0
-
-**Top Solved Topics:**
-* **Arrays & Hashing:** 3 problems
 
 ## Languages & Tools
 
