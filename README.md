@@ -56,8 +56,8 @@ For each problem, I generally follow these steps:
 
 ## Progress Tracker
 
-**Total Problems Solved:** 8
-* Easy: 8
+**Total Problems Solved:** 9
+* Easy: 9
 * Medium: 0
 * Hard: 0
 
