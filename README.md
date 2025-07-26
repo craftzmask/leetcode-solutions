@@ -56,9 +56,9 @@ For each problem, I generally follow these steps:
 
 ## Progress Tracker
 
-**Total Problems Solved:** 17
+**Total Problems Solved:** 18
 * Easy: 12
-* Medium: 5
+* Medium: 6
 * Hard: 0
 
 ## Languages & Tools
